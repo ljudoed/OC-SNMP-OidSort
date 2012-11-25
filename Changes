@@ -1,0 +1,8 @@
+Revision history for Perl extension OC::SNMP::OidSort.
+
+0.01  Thu Mar 24 16:08:42 2011
+	- original version; created by h2xs 1.23 with options
+		-A -n OC::SNMP::OidSort
+
+0.2   Sat Nov 24 18:02:00 2012
+	- code restructoring and performance optimization
